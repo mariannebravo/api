@@ -1,5 +1,7 @@
 # Voll Med Rest APIs Project
 
+<img src="./public/img/gatitos.png" alt="cats-sleeping" width="100%">
+
 # Description
 
 ### Portuguese description
